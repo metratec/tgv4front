@@ -1,11 +1,11 @@
 {
-    "name": "TruckGuard Dashboard",
-    "short_name": "TruckGuard Dashboard",
+    "name": "DieselSAFE Portal",
+    "short_name": "DS Portal",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "The customer portal for DieselSAFE System",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
