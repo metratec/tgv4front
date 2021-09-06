@@ -40162,12 +40162,12 @@ return new T.eP(1,C.aM,M.ad(s,T.cx(H.a([new F.ch(a,12.5,C.l,C.a2,s),r,new T.eP(1
 Qm:function(a){var s=null,r=T.bU(s,5,s),q=Y.hN(!1,10.5,C.l),p=Y.hN(!1,13,P.ar(C.d.aj(127.5),0,0,0)),o=$.VR()
 return new T.eP(1,C.aM,M.ad(s,T.cx(H.a([new F.ch(a,12.5,C.l,C.a2,s),r,new T.eP(1,C.aM,M.ad(s,Z.Ni(!0,s,!1,s,s,s,s,s,2,L.rJ(s,o,new V.Q(18,8,18,8),s,s,s,s,!0,o,s,s,s,s,s,!0,s,s,o,s,!0,s,s,s,s,p,"",s,s,s,!1,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),!0,!0,s,!1,s,s,s,s,s,!0,s,6,s,!1,"\u2022",s,s,s,s,!1,s,C.dc,s,s,s,s,s,s,q,C.a4,s,C.dK,s,s,s),C.j,s,s,s,s,s,s,s,s,s,s,s),s),T.bU(s,10,s)],t.p),C.a1,C.u,C.z),C.j,s,s,s,s,s,s,new V.Q(0,7,0,7),s,s,s,s),s)},
 OI:function(){var s=null,r=this.gaz(this).M(t.w).f,q=K.cI(4)
-return M.ad(s,T.iV(new F.ch("Send",13.5,C.k,C.a2,s),s,s),C.j,s,s,new S.bB(C.c1,s,s,q,s,s,C.y),s,s,s,new V.Q(0,r.a.b*0.02,90,0),new V.Q(5,5,5,5),s,s,100)},
+return M.ad(s,T.iV(new F.ch("Absenden",13.5,C.k,C.a2,s),s,s),C.j,s,s,new S.bB(C.c1,s,s,q,s,s,C.y),s,s,s,new V.Q(0,r.a.b*0.02,90,0),new V.Q(5,5,5,5),s,s,100)},
 RR:function(a){var s,r,q=this,p=null,o=t.w
 o=a<600?q.gaz(q).M(o).f.a.a:q.gaz(q).M(o).f.a.a*0.23
 s=K.cI(6)
 r=t.p
-return new T.eP(1,C.aM,M.ad(p,T.cx(H.a([q.Eq(C.tm,"ADDRESS"),T.bU(p,5,p),new F.ch("TruckGuard GmbH\nNeils-Bohr-Str.5\n39106 Magdeburg",12.5,C.l,C.a2,p),q.Q4(),q.Eq(C.tr,"TELEPHONE"),T.bU(p,5,p),new F.ch("0391 25190600",12.5,C.c1,C.a2,p),q.Q4(),q.Eq(C.lo,"E-MAIL"),T.bU(p,5,p),new F.ch("info@truckguard.net",12.5,C.c1,C.a2,p),T.f1(H.a([q.Hf(C.yD,C.hE),q.Hf(C.c1,C.hE)],r),C.a8,C.u,C.z)],r),C.a1,C.u,C.z),C.j,p,p,new S.bB(C.k,p,p,s,p,p,C.y),p,p,p,p,new V.Q(30,40,30,40),p,p,o),p)},
+return new T.eP(1,C.aM,M.ad(p,T.cx(H.a([q.Eq(C.tm,"Adresse"),T.bU(p,5,p),new F.ch("TruckGuard GmbH\nNiels-Bohr-Str.5\n39106 Magdeburg",12.5,C.l,C.a2,p),q.Q4(),q.Eq(C.tr,"Telefon"),T.bU(p,5,p),new F.ch("0391 / 25190600",12.5,C.c1,C.a2,p),q.Q4(),q.Eq(C.lo,"E-Mail"),T.bU(p,5,p),new F.ch("info@truckguard.net",12.5,C.c1,C.a2,p),T.f1(H.a([q.Hf(C.yD,C.hE),q.Hf(C.c1,C.hE)],r),C.a8,C.u,C.z)],r),C.a1,C.u,C.z),C.j,p,p,new S.bB(C.k,p,p,s,p,p,C.y),p,p,p,p,new V.Q(30,40,30,40),p,p,o),p)},
 Hf:function(a,b){var s=null
 return M.ad(s,L.rA(C.hE,C.k,16),C.j,s,s,new S.bB(a,s,s,s,s,s,C.b4),s,s,s,new V.Q(5,15,5,15),new V.Q(10,10,10,10),s,s,s)},
 Q4:function(){var s=null
@@ -40175,14 +40175,14 @@ return M.ad(s,s,C.j,C.l,s,s,s,2,s,new V.Q(0,20,0,20),s,s,s,this.gaz(this).M(t.w)
 Eq:function(a,b){var s=null
 return M.ad(s,T.f1(H.a([L.rA(a,s,17),T.bU(s,s,8),new F.ch(b,14.5,C.l,C.a2,s)],t.p),C.a8,C.u,C.z),C.j,s,s,s,s,s,s,s,s,s,s,s)}}
 V.Yl.prototype={
-$2:function(a,b){var s,r,q=null,p="Phone Number",o="Feedback",n=P.bv(0,500,0),m=this.a,l=t.w,k=t.p
+$2:function(a,b){var s,r,q=null,p="Telefonnr. (optional)",o="Feedback",n=P.bv(0,500,0),m=this.a,l=t.w,k=t.p
 if(b.b<600){s=m.gaz(m).M(l).f
 r=K.cI(6)
 l=T.cx(H.a([M.ad(q,T.cx(H.a([m.RZ("Name"),m.RZ(p),m.Qm(o),m.OI()],k),C.a1,C.u,C.z),C.j,q,q,new S.bB(C.k,q,q,r,q,q,C.y),q,q,q,q,new V.Q(30,40,30,40),q,q,s.a.a),T.bU(q,20,q),m.RR(m.gaz(m).M(l).f.a.a)],k),C.a8,C.u,C.z)
 m=l}else{s=m.gaz(m).M(l).f
 r=K.cI(6)
 l=T.f1(H.a([M.ad(q,M.ad(q,T.cx(H.a([m.QZ("Name"),m.QZ(p),m.Qm(o),m.OI()],k),C.a1,C.u,C.z),C.j,q,q,q,q,320,q,q,q,q,q,q),C.j,q,q,new S.bB(C.k,q,q,r,q,q,C.y),q,q,q,q,new V.Q(30,40,30,40),q,q,s.a.a*0.7),T.bU(q,q,40),m.RR(m.gaz(m).M(l).f.a.a*0.23)],k),C.a1,C.u,C.z)
-m=l}return G.FH(B.Jm(H.a([new V.p0("Kontakt",q),M.ad(q,m,C.j,q,q,q,q,q,q,new V.Q(30,0,30,0),q,q,q,q)],k),q),C.a0,q,n,q,q,q)},
+m=l}return G.FH(B.Jm(H.a([new V.p0("Kontakt/Feedback",q),M.ad(q,m,C.j,q,q,q,q,q,q,new V.Q(30,0,30,0),q,q,q,q)],k),q),C.a0,q,n,q,q,q)},
 $S:64}
 G.o3.prototype={
 L:function(a,b){return new V.He(null)}}
@@ -40276,7 +40276,7 @@ L:function(a,b){var s,r,q=this,p=null,o=q.c,n=o<600,m=n&&!0,l=M.ad(p,p,C.j,p,p,p
 n=!n||!1
 s=o*0.01
 r=t.p
-r=H.a([L.aws(M.ad(p,T.f1(H.a([new Z.yC(p),T.bU(p,p,o*0.03),q.EO("Events","/events"),T.bU(p,p,s),q.EO("Fahrzeug","/vehicles"),T.bU(p,p,s),q.EO("Kontakt","/contact")],r),C.a8,C.u,C.z),C.j,p,p,p,p,p,p,new V.Q(o*0.04,0,0,0),p,p,p,p),n),T.kk(M.ad(p,p,C.j,p,p,p,p,p,p,p,p,p,p,p),1),q.a84(),T.bU(p,p,10)],r)
+r=H.a([L.aws(M.ad(p,T.f1(H.a([new Z.yC(p),T.bU(p,p,o*0.03),q.EO("Events","/events"),T.bU(p,p,s),q.EO("Fahrzeuge","/vehicles"),T.bU(p,p,s),q.EO("Kontakt/Feedback","/contact")],r),C.a8,C.u,C.z),C.j,p,p,p,p,p,p,new V.Q(o*0.04,0,0,0),p,p,p,p),n),T.kk(M.ad(p,p,C.j,p,p,p,p,p,p,p,p,p,p,p),1),q.a84(),T.bU(p,p,10)],r)
 return new E.ws(m,l,r,1,C.k,new T.eR(C.l,p,p),new T.eR(C.l,p,p),!1,new P.J(1/0,56),p)},
 EO:function(a,b){var s=null
 return R.IR(!1,!0,new F.ch(a,14,C.l,C.a2,s),s,!0,s,s,s,s,s,s,s,s,s,new R.a4m(b),s,s,s)},
@@ -40418,7 +40418,7 @@ $S:125}
 S.O0.prototype={
 oc:function(a,b,c){var s=null,r=c.x
 r.toString
-return M.ad(s,B.Jm(H.a([new V.p0("Fahrzeug",s),B.aus(new S.ad5(c),J.bW(r),new L.pi(s),C.n,!0)],t.p),s),C.j,s,s,s,s,s,s,s,s,s,s,s)}}
+return M.ad(s,B.Jm(H.a([new V.p0("Fahrzeuge",s),B.aus(new S.ad5(c),J.bW(r),new L.pi(s),C.n,!0)],t.p),s),C.j,s,s,s,s,s,s,s,s,s,s,s)}}
 S.ad5.prototype={
 $2:function(a,b){var s=this.a.x
 s.toString
